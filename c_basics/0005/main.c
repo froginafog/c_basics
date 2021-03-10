@@ -17,7 +17,7 @@ int main()
 
 	printf("---------------1-------------\n");
 
-	float sum;
+	double sum;
 
 	sum = x1 + x2;  //add x1 and x2 together and store the result in the variable sum
 
