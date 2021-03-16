@@ -7,6 +7,7 @@ this is also a comment
 */
 
 //comments are non-executable
+//comments are used to explain what the code does
 
 int main()
 {
