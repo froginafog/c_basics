@@ -39,7 +39,7 @@ int main()
     //the decision is made based on the comparison between 2 numbers (stored in a and b)
     //the decision is NOT made based on the context of the statement in printf("context")
 
-	return 0;
+    return 0;
 }
 
 /*
