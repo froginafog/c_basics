@@ -7,7 +7,7 @@ int main()
 
     while(*s != '\0')
     {
-        printf("s : %d \n", s);  //print the address at which s currently points to
+        printf("s : %p \n", s);  //print the address at which s currently points to
         printf("*s: %c \n", *s);   //print the value stored in the address at which s currently points to
         s++;  //let the pointer s point to the next element in the string
     }
@@ -17,24 +17,24 @@ int main()
 }
 
 /*
-s : 1489276932
-*s: H
-s : 1489276933
-*s: e
-s : 1489276934
-*s: l
-s : 1489276935
-*s: l
-s : 1489276936
-*s: o
-s : 1489276937
-*s:
-s : 1489276938
-*s: F
-s : 1489276939
-*s: r
-s : 1489276940
-*s: o
-s : 1489276941
-*s: g
+s : 0x5614554ed004 
+*s: H 
+s : 0x5614554ed005 
+*s: e 
+s : 0x5614554ed006 
+*s: l 
+s : 0x5614554ed007 
+*s: l 
+s : 0x5614554ed008 
+*s: o 
+s : 0x5614554ed009 
+*s:   
+s : 0x5614554ed00a 
+*s: F 
+s : 0x5614554ed00b 
+*s: r 
+s : 0x5614554ed00c 
+*s: o 
+s : 0x5614554ed00d 
+*s: g 
 */
