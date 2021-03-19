@@ -17,7 +17,7 @@ int main()
 	printf("%c", ch2);  //print the character stored in ch2 to the screen
 	printf("%c", ch3);  //print the character stored in ch3 to the screen
 	printf("%c", ch4);  //print the character stored in ch4 to the screen
-	printf("\n");
+	printf("\n");  //go to the next line
 	printf("----------1---------\n");
 	printf("%c%c%c%c", ch1, ch2, ch3, ch4);
 	printf("\n");
