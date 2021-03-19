@@ -1,5 +1,5 @@
 to get started, visit:
 www.codeblocks.org/downloads/binaries/
 
-open the file with code::blocks
+open the file with code::blocks and
 press run
