@@ -10,7 +10,7 @@ int main()
 	ch1 = 'f';  //assign the character 'f' to ch1
 	ch2 = 'r';  //assign the character 'r' to ch2
 	ch3 = 'o';  //assign the character 'o' to ch3
-	ch4 = 'g';  //assign the character 'g' to ch3
+	ch4 = 'g';  //assign the character 'g' to ch4
 	//single quotes are for storing 1 character at a time
 	
 	printf("%c", ch1);  //print the character stored in ch1 to the screen
