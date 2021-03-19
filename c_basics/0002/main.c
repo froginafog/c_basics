@@ -13,10 +13,10 @@ int main()
 	ch4 = 'g';  //assign the character 'g' to ch3
 	//single quotes are for storing 1 character at a time
 	
-	printf("%c", ch1);  //print the content stored in ch1 to the screen
-	printf("%c", ch2);  //print the content stored in ch2 to the screen
-	printf("%c", ch3);  //print the content stored in ch3 to the screen
-	printf("%c", ch4);  //print the content stored in ch4 to the screen
+	printf("%c", ch1);  //print the character stored in ch1 to the screen
+	printf("%c", ch2);  //print the character stored in ch2 to the screen
+	printf("%c", ch3);  //print the character stored in ch3 to the screen
+	printf("%c", ch4);  //print the character stored in ch4 to the screen
 	printf("\n");
 	printf("----------1---------\n");
 	printf("%c%c%c%c", ch1, ch2, ch3, ch4);
