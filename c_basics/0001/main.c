@@ -19,7 +19,8 @@ int main()
 	
 	//'\n' means go to the next line after the message is printed
 
-	return 0;
+	return 0;  //return the value 0 (as an integer) to the main() function
+	           //the details are not important for now
 }
 
 //The following is the output:
