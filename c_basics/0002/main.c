@@ -16,7 +16,7 @@ int main()
 	printf("%c", ch1);  //print the content stored in ch1 to the screen
 	printf("%c", ch2);  //print the content stored in ch2 to the screen
 	printf("%c", ch3);  //print the content stored in ch2 to the screen
-	printf("%c", ch4);  //pprint the content stored in ch2 to the screen
+	printf("%c", ch4);  //print the content stored in ch2 to the screen
 	printf("\n");
 	printf("----------1---------\n");
 	printf("%c%c%c%c", ch1, ch2, ch3, ch4);
