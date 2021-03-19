@@ -13,9 +13,11 @@ int main()
 {
 	//"int" stands for integer
 	//an integer is a whole number (for example, ..., -2, -1, 0, 1, 2, ...)
-	printf("Hello Frog\n");  //'\n' means go to the next line after the message is printed
-	printf("Bye ");
-	printf("Frog\n");
+	printf("Hello Frog\n");  //print the message "Hello Frog" and go to the next line
+	printf("Bye ");   //print the word "Bye" without going to the next line
+	printf("Frog\n");  //print the word "Frog" and go to the next line
+	
+	//'\n' means go to the next line after the message is printed
 
 	return 0;
 }
