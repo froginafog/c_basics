@@ -19,8 +19,6 @@ int main()
     printf("Hello Frog ");  //print "Hello Frog" to the screen
     printf("Bye Frog");  //print "Bye Frog" to the screen
 
-    //'\n' means go to the next line
-
     return 0;
 }
 
