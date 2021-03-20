@@ -4,6 +4,8 @@
 
 /* this is a comment */
 
+//A comment is non-executable code.
+
 //what comes after double-slash is part of a comment
 
 /* what comes between slash-star and star-slash is part of a comment */
