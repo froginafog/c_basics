@@ -4,17 +4,17 @@ int main()
 {
 	int a[5];  //declare an empty array of 5 elements
 	int num_elements = 5;
-    int i;
+    	int i;
 
-    //assign values to the empty array
-    for(i = 0; i < num_elements; i++)
+    	//assign values to the empty array
+    	for(i = 0; i < num_elements; i++)
 	{
-        a[i] = (i + 1) * 10;
+        	a[i] = (i + 1) * 10;
 	}
 
 	for(i = 0; i < num_elements; i++)
 	{
-        printf("a[%d]: %d\n", i, a[i]);
+        	printf("a[%d]: %d\n", i, a[i]);
 	}
 
 	return 0;
