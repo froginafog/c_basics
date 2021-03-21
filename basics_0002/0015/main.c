@@ -6,7 +6,7 @@ int main()
 	int i_min;
 	int i_max;
 
-    i_min = 0;
+    	i_min = 0;
 	i_max = 5;
 
 	printf("entering the for loop\n");
@@ -16,7 +16,7 @@ int main()
 	}
 	printf("leaving the for loop\n");
 
-    printf("i: %d\n", i);
+    	printf("i: %d\n", i);
 
 	printf("entering the while loop\n");
 	while(i >= i_min)
