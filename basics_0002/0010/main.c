@@ -2,11 +2,11 @@
 
 int main()
 {
-	int a;
-	int b;
+    int a;
+    int b;
 
-	a = 10;
-	b = 5;
+    a = 10;
+    b = 5;
 
     if(a < b)
     {
