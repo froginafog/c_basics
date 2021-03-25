@@ -8,20 +8,20 @@ int main()
 	a = 10;
 	b = 5;
 
-    if(a < b)
-    {
-        printf("a is LESS than b\n");
-    }
+    	if(a < b)
+    	{
+        	printf("a is LESS than b\n");
+    	}
 
-    if(a == b)
-    {
-        printf("a is EQUAL to b\n");
-    }
+    	if(a == b)
+    	{
+        	printf("a is EQUAL to b\n");
+    	}
 
-    if(a > b)
-    {
-        printf("a is GREATER than b\n");
-    }
+    	if(a > b)
+    	{
+        	printf("a is GREATER than b\n");
+    	}
 
 	return 0;
 }
