@@ -2,14 +2,14 @@
 
 int main()
 {
-	int a;
-	int b;
+    int a;
+    int b;
 
-	a = 10;
-	b = 5;
+    a = 10;
+    b = 5;
 
-	//only the first comparison that evaluates as "true" matters
-	//the subsequent comparisons that evaluate as "true" are ignored
+    //only the first comparison that evaluates as "true" matters
+    //the subsequent comparisons that evaluate as "true" are ignored
 
     if(a < b)
     {
@@ -39,7 +39,7 @@ int main()
     //the decision is made based on the comparison between 2 numbers (stored in a and b)
     //the decision is NOT made based on the context of the statement in printf("context")
 
-	return 0;
+    return 0;
 }
 
 /*
