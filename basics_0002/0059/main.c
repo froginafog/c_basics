@@ -14,11 +14,11 @@ int main()
 
 	char * copy_message;
 
-	copy_message = malloc((N1 + 1) * sizeof(char));  //allocate memory for storing N1
+	copy_message = malloc((N1 + 1) * sizeof(char));  //allocate memory for storing message 1
     	strcpy(copy_message, message1); //copy message1 into copy_message
 	printf("copy_message: %s\n", copy_message);
 
-	realloc(copy_message, (N2 + 1) * sizeof(char)); //reallocate memory for storing N2
+	realloc(copy_message, (N2 + 1) * sizeof(char)); //reallocate memory for storing message 2
     	strcpy(copy_message, message2); //copy message2 into copy_message
     	printf("copy_message: %s\n", copy_message);
 
