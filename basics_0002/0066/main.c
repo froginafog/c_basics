@@ -6,7 +6,7 @@ int main()
 	int N;  //N = number of elements
 
 	printf("Enter the number of elements you wish to enter: ");
-	scanf("%d", &N);  //read an integer from the keyboard
+	scanf("%d", &N);  //read an integer from the keyboard and store it in N
 
 	int * a = (int*)malloc(N * sizeof(int));
 
