@@ -38,7 +38,7 @@ int main()
 
 	free(a);
 	printf("free(a) is called\n");
-		printf("a: ");
+	printf("a: ");
 	for(i = 0; i < N; i++)
 	{
 		printf("%d  ", a[i]);
