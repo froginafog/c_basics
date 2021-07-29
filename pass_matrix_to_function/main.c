@@ -26,9 +26,9 @@ void modify_matrix(int A[][5], int num_rows, int num_columns)
 int main()
 {
 	int A[][5] = {{11, 12, 13, 14, 15},
-				  {21, 22, 23, 24, 25},
-				  {31, 32, 33, 34, 35}
-				 };
+		      {21, 22, 23, 24, 25},
+		      {31, 32, 33, 34, 35}
+		     };
 	
 	printf("A:\n");
 	print_matrix(A, 3, 5);
