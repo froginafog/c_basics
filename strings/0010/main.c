@@ -3,8 +3,8 @@
 int main()
 {
 	char s[3][30] =  {"To C or not to C.",
-		              "Today is the day.",
-		              "I am you and you are me."};
+		          "Today is the day.",
+		          "I am you and you are me."};
     //Define a matrix of 3 rows of that can store up to 30 characters.
     //Or, define a 3 strings each of which can store 30 characters.
 
