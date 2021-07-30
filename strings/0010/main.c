@@ -5,8 +5,9 @@ int main()
 	char s[3][30] =  {"To C or not to C.",
 		          "Today is the day.",
 		          "I am you and you are me."};
-    //Define a matrix of 3 rows of that can store up to 30 characters.
-    //Or, define a 3 strings each of which can store 30 characters.
+    	//Define a matrix of 3 rows of that can store up to 30 characters.
+    	//Or, define a 3 strings each of which can store 30 characters.
+	
 
 	printf("sizeof(s): %llu\n", sizeof(s));
 	printf("sizeof(s[0]): %d\n", sizeof(s[0]));
