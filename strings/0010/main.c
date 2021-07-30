@@ -24,3 +24,18 @@ int main()
 
 	return 0;
 }
+
+/*
+sizeof(s): 90
+sizeof(s[0]): 30
+sizeof(s[1]): 30
+sizeof(s[2]): 30
+-------------------------------
+number of strings: 3
+number of strings: 3: 0
+number of strings: 3: 0
+-------------------------------
+length of s[0]: 17
+length of s[1]: 17
+length of s[2]: 24
+*/
