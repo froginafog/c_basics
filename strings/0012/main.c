@@ -11,7 +11,7 @@ int main()
 	int lengthOfEachString = 100;
 
 
-    //allocate memory for "numberOfStrings" strings
+    	//allocate memory for "numberOfStrings" strings
 	char ** strings = (char **)malloc(numberOfStrings * sizeof(char *));
 
 
@@ -22,7 +22,7 @@ int main()
 	}
 
 
-    //ask the user to enter each string
+    	//ask the user to enter each string
 	for(i = 0; i < numberOfStrings; i++)
 	{
 		printf("enter string[%d]: ", i);
